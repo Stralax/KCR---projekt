@@ -1,4 +1,4 @@
-# Primerjava mehanske tipkovnice in tipkovnice na zaslonu (dotik) za uporabo v kartomatih
+# Primerjava mehanske tipkovnice in tipkovnice na dotik za uporabo v kartomatih
 
 ## Uvod
 Kartomat na železniški postaji je javna naprava, ki jo dnevno uporablja veliko število ljudi. Izbira vmesnika za vnos podatkov je ključnega pomena za uporabniško izkušnjo.
@@ -17,7 +17,7 @@ Kartomat na železniški postaji je javna naprava, ki jo dnevno uporablja veliko
 - **Glasnost**: Klikanje lahko moti druge uporabnike
 - **Omejena prilagodljivost**: Ni možnosti spreminjanja razporeditve tipkovnice
 
-## Tipkovnica na zaslonu (dotik)
+## Tipkovnica na dotik
 
 ### Prednosti
 - **Higienska prednost**: Gladka površina omogoča lažje čiščenje in dezinfeciranje
@@ -40,7 +40,7 @@ Kartomat na železniški postaji je javna naprava, ki jo dnevno uporablja veliko
   - Redno vzdrževanje zaradi mehanske obrabnosti
   - Višji stroški zamenjave ob okvari
 
-- **Tipkovnica na zaslonu**:
+- **Tipkovnica na dotik**:
   - Ni dodatne stroškovne postavke za ločeno tipkovnico
   - Integrirana v obstoječi zaslon
   - Nižji stroški vzdrževanja (brez gibljivih delov)
