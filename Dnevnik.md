@@ -32,3 +32,8 @@
 - Izdelava prezentacije za vaje.
 - Izdelava začetne verzije našega portfolija.
 - Obisk vaj "Prototipiranje".
+
+## 9. teden
+- Dokončanje prvega prototipa.
+- Povratna informacija študentov in asistenta glede uporabniške izkušnje prototipa.
+- Obisk vaj "Testiranje uporabnosti".
