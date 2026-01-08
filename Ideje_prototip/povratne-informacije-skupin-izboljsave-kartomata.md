@@ -21,9 +21,26 @@ V nadaljevanju so zbrane glavne pripombe, ki so jih druge skupine izpostavile pr
 - Na strani "Strinjam se s pogoji" namesto ikone za zapiranje (X) dodati gumb "Ne strinjam se s pogoji" za boljšo preglednost.
 
 - Dodati informacijo o tem, kdaj prihaja prvi naslednji vlak, na stran za "Hitri nakup".
- 
 
-### **1.2 Skupina 17**
+### **1.2 Skupina 7**
+
+- Gumb za prikaz informacij o vrstah vlakov: naj bo drugačne barve, sedaj preveč "seka ven".
+
+- Da se končna cena nakupa kart avtomatsko izračuna glede na izbrano število potnikov
+
+- Stran "Povzetek nakupa": pripombe glede kontrasta in majhne velikosti pisave
+
+- Pri opciji "Hitri nakup" bi radi videli možnost, da uporabnik lahko kupi vozovnice za več ljudi
+ 
+### **1.3 Skupina 13**
+
+- Barve pri "hover" animaciji naj bojo invetirane
+
+- Barva gumba za prikaz informacij o vrstah vlakov naj bo bolj skladna z barvno temo celotne aplikacije
+
+- Pri gumbu "Brez prestopov" na strani "Izbira vlaka" bi bilo smiselno dodati nek okvirček s kljukico, da uporabniku ni dvoumno, kdaj je opcija izbrana
+
+### **1.4 Skupina 17**
 
 - Povečati preglednost in jasneje predstaviti podatke na strani "Hitri nakup".
 
@@ -33,7 +50,7 @@ V nadaljevanju so zbrane glavne pripombe, ki so jih druge skupine izpostavile pr
 
 - Na stran "Izberite vrsto plačila" dodati slikovni prikaz kartice in gotovine.
 
-### **1.3 Predlogi in pripombe asistenta**
+### **1.4 Predlogi in pripombe asistenta**
 
 - Na strani "Hitri nakup" izboljšati ločevanje med možnostjo in njeno vrednostjo (npr. datum: 11.10.2025).
 
