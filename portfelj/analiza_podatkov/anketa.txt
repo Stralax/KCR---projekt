@@ -1,0 +1,39 @@
+n=17
+
+vprašanja:
+1. starost:
+- 6-13 let: 5.9 %
+- 14-19 let: -
+- 20-25 let: 82,4 %
+- 26-50 let: -
+- 50+ let: 11,8 %
+
+1. Kako pogosto se peljete z vlakom?
+- vsak dan: -
+- občasno (do 3-krat na teden): 5.9 %
+- mesečno (3- do 5-krat): 17.6 %
+- redko/nikoli: 76,5 %
+
+2. Ali ste že uporabili avtomat za vozovnice SŽ?
+- da: 58.8 %
+- ne: 41.2 %
+
+3. Koliko časa ste potrebovali za nakup vozovnice preko avtomata?
+- 1 - 3 min: 35,3 %
+- 3 - 5 min: 47,1 %
+- 5 - 10 min: 17,6 %
+
+4. Kaj vam je všeč pri trenutnem uporabniškem vmesniku?
+- da obstaja avtomat
+- velik zaslon
+- nič
+
+5. Kaj vam ni všeč pri trenutnem uporabniškem vmesniku?
+- nejansi koraki
+- čakalna vrsta, počasi gre
+- plačilo z gotovino ni vedno na voljo
+- tipkovnica
+- barvna shema
+
+6. Kako bi ocenili vašo izkušnjo pri uporabi avtomata (1-10)?
+- 4.53
