@@ -85,22 +85,6 @@ V nadaljevanju so zbrane glavne pripombe, ki so jih druge skupine izpostavile pr
 
 - Posodobiti filtriranje seznama vlakov na strani "Izbetite vozovnico", z dodatno možnostjo "kolo", saj se ta podatek izbere vnaprej in mora seznam prikazati samo vlake, ki omogočajo prevoz koles.
 
-
-
-## 2. Predlogi za izboljšave
-
-Na podlagi zgoraj navedenih kritik so oblikovani naslednji predlogi:
-
-- nekaj
-
-- nekaj
-
-### **2.1 Izboljšave**
-
-- nekaj
-
-- nekaj
-
-## 3. Zaključek
+## 2. Zaključek
 
 Dokument služi kot osnova za naslednjo fazo razvoja, kjer bomo kritike skušali čim bolj učinkovito vključiti v izboljšano različico kartomata.

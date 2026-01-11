@@ -1,6 +1,0 @@
-Ko kliknemo na opcijo "Povečaj pisavo" naj se system-wide poveča in odebelji pisava in UI
-
-
-
-Stare dimezije: w=800px h=1180 (old)
-Trenutene dimezije: w-[475px] h-[700px]

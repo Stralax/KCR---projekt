@@ -1,4 +1,4 @@
-# Težave
+# Težave, ki smo jih opazili sami
 V tem dokumentu so opisani problemi, ki smo jih odkrili pri uporabi trenutne verzije kartomata SŽ
 
 Naša re-implementacija uporabniškega vmesnika za kartomat bo poskušala rešiti te težave.
